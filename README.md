@@ -1,0 +1,1 @@
+use python -m SimpleHTTPServer por start server
